@@ -1,0 +1,84 @@
+.沃玛频道 {
+  font-size: 125px;
+  font-family: "Alibaba PuHuiTi 3.0";
+  color: rgb(255, 255, 255);
+  line-height: 0.92;
+  text-shadow: 0px 1px 24px rgba(0, 0, 1, 0.5);
+  position: absolute;
+  left: 25.249px;
+  top: 219.752px;
+  z-index: 6;
+
+}
+.warma_fans {
+  font-size: 50px;
+  font-family: "Alibaba PuHuiTi 3.0";
+  color: rgb(255, 255, 255);
+  line-height: 3.194;
+  text-shadow: 0px 1px 24px rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 50.249px;
+  top: 280.078px;
+  z-index: 7;
+}
+.rt {
+  background-image: url("img/右上.png");
+  position: absolute;
+  right: 0px;
+  top: -4px;
+  z-index: 1;
+  height:150%;
+}
+
+
+.img1  {
+  background-image: url("img/右上.png");
+  position: absolute;
+  left:600px ;
+  top:200px ;
+  z-index: 4;
+  box-shadow: 0px 10px 24px rgba(0, 0, 0, 0.5);
+  height:75%;
+}
+.img2  {
+  background-image: url("img/右上.png");
+  position: absolute;
+  left:750px ;
+  top:150px ;
+  z-index: 3;
+  box-shadow: 0px 10px 24px rgba(0, 0, 0, 0.5);
+  height:75%;
+}
+.donw {
+  font-size: 25px;
+  font-family: "Alibaba PuHuiTi 3.0";
+  color: rgb(255, 255, 255);
+  line-height: 3.194;
+  text-shadow: 0px 1px 10px rgba(0, 0, 0, 0.5);
+  position: absolute;
+  right: 125px;
+  top: 850px;
+  z-index: 7;
+}
+.main2 {
+  font-family: "Alibaba PuHuiTi 3.0";
+  color: rgb(255, 255, 255);
+  line-height: 3.194;
+  text-shadow: 0px 1px 24px rgba(0, 0, 0, 0.5);
+  position: absolute;
+  right: 125px;
+  top: 800px;
+  z-index: 7;
+}
+.img3 {
+  background-image: url("img/右上.png");
+  position: absolute;
+  right:70px ;
+  top:500px ;
+  z-index: 2;
+  height:75%;
+}
+
+body {
+  user-select: none;
+}

@@ -1,0 +1,37 @@
+.沃玛频道 {
+  font-size: 125px;
+  font-family: "Alibaba PuHuiTi 3.0";
+  color: rgb(255, 255, 255);
+  line-height: 0.92;
+  text-shadow: 0px 1px 24px rgba(0, 0, 1, 0.5);
+  position: absolute;
+  left: 25.249px;
+  top: 20.752px;
+  z-index: 6;
+  writing-mode: vertical-lr;
+}
+.warma_fans {
+  font-size: 50px;
+  font-family: "Alibaba PuHuiTi 3.0";
+  color: rgb(255, 255, 255);
+  line-height: 3.194;
+  text-shadow: 0px 1px 24px rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 90.249px;
+  top: 40.078px;
+  z-index: 7;
+  writing-mode: vertical-lr;
+}
+.AI改图_image_932x984 {
+  background-image: url("AI改图-image-932x984.png");
+  position: absolute;
+  left: 34px;
+  top: 243px;
+  width: 1209px;
+  height: 1150px;
+  z-index: 2;
+}
+
+
+
+  
